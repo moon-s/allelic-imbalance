@@ -19,7 +19,7 @@ Visualization: Tools and scripts for generating plots, charts, and graphs that v
 Set up your environment with the required dependencies. \
 Download and extract the source code package. \
 Begin with the data pre-processing script, followed by AI detection and subsequent analyses. \
-For specific functions or use-cases, refer to the accompanying comments in each script. \
+For specific functions or use-cases, refer to the accompanying comments in each script. 
 
 ## Support
 For questions, issues, or further clarification regarding the source codes, please contact author and refer to the documentation included.
