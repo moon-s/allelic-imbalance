@@ -1,7 +1,6 @@
-# allelic-imblance
-Analysis of Allelic Imbalance
+# Analysis of Allelic Imbalance
 
-Overview:
+## Overview:
 These source codes are tailored for the analysis of allelic imbalance (AI) as presented in our study. They encapsulate the comprehensive methodologies and pipelines we employed to interrogate and interpret AI in various genetic contexts.
 
 Contents:
